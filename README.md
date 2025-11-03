@@ -46,11 +46,12 @@
 ---
 
 ### 🤝 Connect With Me
-<a href="https://www.linkedin.com/in/arun-palanivel-a15848348/" target="_blank">
+<a href="https://www.linkedin.com/in/arun-palanivel-a15848348/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
 </a>
-<a href="mailto:arunpalanivel17042005@gmail.com" target="_blank">
+<a href="mailto:arunpalanivel17042005@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Gmail">
 </a>
+
 
 
