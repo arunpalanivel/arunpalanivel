@@ -46,5 +46,5 @@
 ---
 
 ### 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/arun-palanivel-a15848348/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]((https://www.linkedin.com/in/arun-palanivel-a15848348/))
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:arunpalanivel17042005@gmail.com)
